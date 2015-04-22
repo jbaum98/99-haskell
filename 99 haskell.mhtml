@@ -1,0 +1,1304 @@
+From: <Saved by Blink>
+Subject: 99 questions/1 to 10 - HaskellWiki
+Date: Thu, 22 Apr 2015 20:32:50 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_7CE2_55F88EF7.9B7167A3"
+
+------=_NextPart_000_7CE2_55F88EF7.9B7167A3
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.haskell.org/99_questions/1_to_10
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" xml:lang=3D"en" lang=3D"en" dir=3D"ltr" class=3D"client-js"=
+><head><meta charset=3D"UTF-8">
+	=09
+		<meta name=3D"generator" content=3D"MediaWiki 1.19.14+dfsg-1">
+<link rel=3D"shortcut icon" href=3D"https://wiki.haskell.org/favicon.ico">
+<link rel=3D"search" type=3D"application/opensearchdescription+xml" href=3D=
+"https://wiki.haskell.org/opensearch_desc.php" title=3D"HaskellWiki (en)">
+<link rel=3D"EditURI" type=3D"application/rsd+xml" href=3D"https://wiki.has=
+kell.org/api.php?action=3Drsd">
+<link rel=3D"copyright" href=3D"https://wiki.haskell.org/HaskellWiki:Copyri=
+ghts">
+<link rel=3D"alternate" type=3D"application/atom+xml" title=3D"HaskellWiki =
+Atom feed" href=3D"https://wiki.haskell.org/index.php?title=3DSpecial:Recen=
+tChanges&amp;feed=3Datom">		<title>99 questions/1 to 10 - HaskellWiki</titl=
+e>
+		<style type=3D"text/css" media=3D"screen, projection">/*<![CDATA[*/
+			@import "/wikistatic/skins//common/shared.css?303";
+			@import "/wikistatic/skins//hawiki/main.css?303";
+		/*]]>*/</style>
+		<link rel=3D"stylesheet" type=3D"text/css" media=3D"print" href=3D"https:=
+//wiki.haskell.org/wikistatic/skins//common/commonPrint.css?303">
+		<!--[if lt IE 5.5000]><style type=3D"text/css">@import "/wikistatic/skins=
+//hawiki/IE50Fixes.css?303";</style><![endif]-->
+		<!--[if IE 5.5000]><style type=3D"text/css">@import "/wikistatic/skins//h=
+awiki/IE55Fixes.css?303";</style><![endif]-->
+		<!--[if IE 6]><style type=3D"text/css">@import "/wikistatic/skins//hawiki=
+/IE60Fixes.css?303";</style><![endif]-->
+		<!--[if IE 7]><style type=3D"text/css">@import "/wikistatic/skins//hawiki=
+/IE70Fixes.css?303";</style><![endif]-->
+		<!--[if lte IE 7]><script type=3D"text/javascript" src=3D"/wikistatic/ski=
+ns//hawiki/IEFixes.js?303"></script>
+		<meta http-equiv=3D"imagetoolbar" content=3D"no" /><![endif]-->
+                                                <style>#content > #right > =
+.dose > .dosesingle,
+#content > #center > .dose > .dosesingle
+{display:none !important;}</style>
+
+	=09
+	=09
+		<!-- Head Scripts -->
+
+
+<style type=3D"text/css" media=3D"all">.js-messagebox{margin:1em 5%;padding=
+:0.5em 2.5%;border:1px solid #ccc;background-color:#fcfcfc;font-size:0.8em}=
+.js-messagebox .js-messagebox-group{margin:1px;padding:0.5em 2.5%;border-bo=
+ttom:1px solid #ddd}.js-messagebox .js-messagebox-group:last-child{border-b=
+ottom:thin none transparent}
+
+/* cache key: wikidb_haskell:resourceloader:filter:minify-css:7:8b08bdc91c5=
+2a9ffba396dccfb5b473c */
+
+.mw-collapsible-toggle{float:right} li .mw-collapsible-toggle{float:none} .=
+mw-collapsible-toggle-li{list-style:none}
+
+/* cache key: wikidb_haskell:resourceloader:filter:minify-css:7:4250852ed23=
+49a0d4d0fc6509a3e7d4c */</style><meta name=3D"ResourceLoaderDynamicStyles">=
+<style type=3D"text/css">/*<![CDATA[*/
+.source-haskell {line-height: normal;}
+.source-haskell li, .source-haskell pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for haskell
+ * CSS class: source-haskell, CSS id:=20
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.haskell.source-haskell .de1, .haskell.source-haskell .de2 {font: normal no=
+rmal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-al=
+ign:top;}
+.haskell.source-haskell  {font-family:monospace;}
+.haskell.source-haskell .imp {font-weight: bold; color: red;}
+.haskell.source-haskell li, .haskell.source-haskell .li1 {font-weight: norm=
+al; vertical-align:top;}
+.haskell.source-haskell .ln {width:1px;text-align:right;margin:0;padding:0 =
+2px;vertical-align:top;}
+.haskell.source-haskell .li2 {font-weight: bold; vertical-align:top;}
+.haskell.source-haskell .kw1 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw2 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw3 {font-weight: bold;}
+.haskell.source-haskell .kw4 {color: #cccc00; font-weight: bold;}
+.haskell.source-haskell .kw5 {color: maroon;}
+.haskell.source-haskell .co1 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .co2 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .co3 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .coMULTI {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .es0 {background-color: #3cb371; font-weight: bold;=
+}
+.haskell.source-haskell .br0 {color: green;}
+.haskell.source-haskell .sy0 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .st0 {background-color: #3cb371;}
+.haskell.source-haskell .nu0 {color: red;}
+.haskell.source-haskell .me1 {color: #060;}
+.haskell.source-haskell .ln-xtra, .haskell.source-haskell li.ln-xtra, .hask=
+ell.source-haskell div.ln-xtra {background-color: #ffc;}
+.haskell.source-haskell span.xtra { display:block; }
+
+/*]]>*/
+</style>	</head>
+<body class=3D"mediawiki ltr ns-0 ns-subject page-99_questions_1_to_10 skin=
+-hawiki">
+   <div id=3D"topbar" class=3D"noprint">
+	<div class=3D"portlet noprint" id=3D"p-personal">
+		<h5>Personal tools</h5>
+		<div class=3D"pBody">
+			<ul><li><a class=3D"homebutton" href=3D"https://wiki.haskell.org/Haskell=
+">Home</a></li>
+				<li id=3D"pt-login"><a href=3D"https://wiki.haskell.org/index.php?title=
+=3DSpecial:UserLogin&amp;returnto=3D99+questions%2F1+to+10">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+        	  <div id=3D"p-search">
+	    <div id=3D"searchBody" class=3D"pBody">
+	       <form action=3D"https://wiki.haskell.org/index.php" id=3D"searchfor=
+m"><div>
+	          <input type=3D"hidden" name=3D"title" value=3D"Special:Search">
+	          <input id=3D"searchInput" name=3D"search" type=3D"text" value=3D=
+"">
+				<input type=3D"submit" name=3D"go" class=3D"searchButton" id=3D"searchG=
+oButton" value=3D"Go">&nbsp;
+				<input type=3D"submit" name=3D"fulltext" class=3D"searchButton" id=3D"m=
+w-searchButton" value=3D"Search">
+
+	         </div></form>
+	    </div>
+	  </div>
+   </div>
+	<div id=3D"globalWrapper">
+	<div class=3D"portlet" id=3D"p-logo">
+		<a style=3D"background-image: url(/wikistatic/haskellwiki_logo.png);" hre=
+f=3D"https://wiki.haskell.org/Haskell"></a>
+	</div>
+	<div id=3D"column-content">
+        <div id=3D"notice-area" class=3D"noprint">
+        <!-- ?php $this->data['sitenotice'] =3D 'This is a test instance.  =
+Do not edit, your changes will be lost.'; ? -->
+			        </div>
+        <div id=3D"content-wrapper">
+	<div id=3D"p-cactions" class=3D"portlet noprint">
+		<h5>Views</h5>
+		<div class=3D"pBody">
+			<ul>
+=09
+				 <li id=3D"ca-nstab-main" class=3D"selected"><a href=3D"https://wiki.ha=
+skell.org/99_questions/1_to_10">Page</a></li>
+				 <li id=3D"ca-talk"><a href=3D"https://wiki.haskell.org/Talk:99_questio=
+ns/1_to_10">Discussion</a></li>
+				 <li id=3D"ca-viewsource"><a href=3D"https://wiki.haskell.org/index.php=
+?title=3D99_questions/1_to_10&amp;action=3Dedit">View source</a></li>
+				 <li id=3D"ca-history"><a href=3D"https://wiki.haskell.org/index.php?ti=
+tle=3D99_questions/1_to_10&amp;action=3Dhistory">History</a></li>			</ul>
+		</div>
+	</div>
+                        <div id=3D"content"><div id=3D"mw-js-message" class=
+=3D"js-messagebox" style=3D"display: none;"></div>
+		<a name=3D"top" id=3D"top"></a>
+                        <h1 id=3D"firstHeading" class=3D"firstHeading">99 q=
+uestions/1 to 10</h1>
+		<div id=3D"bodyContent">
+			<h3 id=3D"siteSub">From HaskellWiki</h3>
+			<div id=3D"contentSub"><span class=3D"subpages">&lt; <a href=3D"https://=
+wiki.haskell.org/99_questions" title=3D"99 questions">99 questions</a></spa=
+n></div>
+			<div id=3D"jump-to-nav">Jump to: <a href=3D"https://wiki.haskell.org/99_=
+questions/1_to_10#column-one">navigation</a>, <a href=3D"https://wiki.haske=
+ll.org/99_questions/1_to_10#searchInput">search</a></div>			<!-- start cont=
+ent -->
+			<div id=3D"mw-content-text" lang=3D"en" dir=3D"ltr" class=3D"mw-content-=
+ltr"><p><br>
+This is part of <a href=3D"https://wiki.haskell.org/H-99:_Ninety-Nine_Haske=
+ll_Problems" title=3D"H-99: Ninety-Nine Haskell Problems">Ninety-Nine Haske=
+ll Problems</a>, based on <a rel=3D"nofollow" class=3D"external text" href=
+=3D"https://sites.google.com/site/prologsite/prolog-problems">Ninety-Nine P=
+rolog Problems</a> and <a rel=3D"nofollow" class=3D"external text" href=3D"=
+http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Nine=
+ty-Nine_Lisp_Problems.html">Ninety-Nine Lisp Problems</a>.
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_1">1  Problem 1 </span></h2>
+<p>(*) Find the last element of a list.
+</p><p>(Note that the Lisp transcription of this problem is incorrect.)
+</p><p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1">Prelude<span class=3D"sy0">&gt;</span> myL=
+ast <span class=3D"br0">[</span><span class=3D"nu0">1</span><span class=3D"=
+sy0">,</span><span class=3D"nu0">2</span><span class=3D"sy0">,</span><span =
+class=3D"nu0">3</span><span class=3D"sy0">,</span><span class=3D"nu0">4</sp=
+an><span class=3D"br0">]</span>
+<span class=3D"nu0">4</span>
+Prelude<span class=3D"sy0">&gt;</span> myLast <span class=3D"br0">[</span><=
+span class=3D"st0">'x'</span><span class=3D"sy0">,</span><span class=3D"st0=
+">'y'</span><span class=3D"sy0">,</span><span class=3D"st0">'z'</span><span=
+ class=3D"br0">]</span>
+<span class=3D"st0">'z'</span></pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/1" title=3D"9=
+9 questions/Solutions/1"> Solutions</a>
+</p><p><br>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_2">2  Problem 2 </span></h2>
+<p>(*) Find the last but one element of a list.
+</p><p>(Note that the Lisp transcription of this problem is incorrect.)
+</p><p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1">Prelude<span class=3D"sy0">&gt;</span> myB=
+utLast <span class=3D"br0">[</span><span class=3D"nu0">1</span><span class=
+=3D"sy0">,</span><span class=3D"nu0">2</span><span class=3D"sy0">,</span><s=
+pan class=3D"nu0">3</span><span class=3D"sy0">,</span><span class=3D"nu0">4=
+</span><span class=3D"br0">]</span>
+<span class=3D"nu0">3</span>
+Prelude<span class=3D"sy0">&gt;</span> myButLast <span class=3D"br0">[</spa=
+n><span class=3D"st0">'a'</span><span class=3D"sy0">..</span><span class=3D=
+"st0">'z'</span><span class=3D"br0">]</span>
+<span class=3D"st0">'y'</span></pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/2" title=3D"9=
+9 questions/Solutions/2"> Solutions</a>
+</p><p><br>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_3">3  Problem 3 </span></h2>
+<p>(*) Find the K'th element of a list. The first element in the list is nu=
+mber 1.
+</p><p>Example:
+</p>
+<pre>* (element-at '(a b c d e) 3)
+c
+</pre>
+<p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1">Prelude<span class=3D"sy0">&gt;</span> ele=
+mentAt <span class=3D"br0">[</span><span class=3D"nu0">1</span><span class=
+=3D"sy0">,</span><span class=3D"nu0">2</span><span class=3D"sy0">,</span><s=
+pan class=3D"nu0">3</span><span class=3D"br0">]</span> <span class=3D"nu0">=
+2</span>
+<span class=3D"nu0">2</span>
+Prelude<span class=3D"sy0">&gt;</span> elementAt <span class=3D"st0">"haske=
+ll"</span> <span class=3D"nu0">5</span>
+<span class=3D"st0">'e'</span></pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/3" title=3D"9=
+9 questions/Solutions/3"> Solutions</a>
+</p><p><br>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_4">4  Problem 4 </span></h2>
+<p>(*) Find the number of elements of a list.
+</p><p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1">Prelude<span class=3D"sy0">&gt;</span> myL=
+ength <span class=3D"br0">[</span><span class=3D"nu0">123</span><span class=
+=3D"sy0">,</span> <span class=3D"nu0">456</span><span class=3D"sy0">,</span=
+> <span class=3D"nu0">789</span><span class=3D"br0">]</span>
+<span class=3D"nu0">3</span>
+Prelude<span class=3D"sy0">&gt;</span> myLength <span class=3D"st0">"Hello,=
+ world!"</span>
+<span class=3D"nu0">13</span></pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/4" title=3D"9=
+9 questions/Solutions/4"> Solutions</a>
+</p><p><br>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_5">5  Problem 5 </span></h2>
+<p>(*) Reverse a list.
+</p><p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1">Prelude<span class=3D"sy0">&gt;</span> myR=
+everse <span class=3D"st0">"A man, a plan, a canal, panama!"</span>
+<span class=3D"st0">"!amanap ,lanac a ,nalp a ,nam A"</span>
+Prelude<span class=3D"sy0">&gt;</span> myReverse <span class=3D"br0">[</spa=
+n><span class=3D"nu0">1</span><span class=3D"sy0">,</span><span class=3D"nu=
+0">2</span><span class=3D"sy0">,</span><span class=3D"nu0">3</span><span cl=
+ass=3D"sy0">,</span><span class=3D"nu0">4</span><span class=3D"br0">]</span=
+>
+<span class=3D"br0">[</span><span class=3D"nu0">4</span><span class=3D"sy0"=
+>,</span><span class=3D"nu0">3</span><span class=3D"sy0">,</span><span clas=
+s=3D"nu0">2</span><span class=3D"sy0">,</span><span class=3D"nu0">1</span><=
+span class=3D"br0">]</span></pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/5" title=3D"9=
+9 questions/Solutions/5"> Solutions</a>
+</p><p><br>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_6">6  Problem 6 </span></h2>
+<p>(*) Find out whether a list is a palindrome. A palindrome can be read fo=
+rward or backward; e.g. (x a m a x).
+</p><p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1"><span class=3D"sy0">*</span>Main<span clas=
+s=3D"sy0">&gt;</span> isPalindrome <span class=3D"br0">[</span><span class=
+=3D"nu0">1</span><span class=3D"sy0">,</span><span class=3D"nu0">2</span><s=
+pan class=3D"sy0">,</span><span class=3D"nu0">3</span><span class=3D"br0">]=
+</span>
+False
+<span class=3D"sy0">*</span>Main<span class=3D"sy0">&gt;</span> isPalindrom=
+e <span class=3D"st0">"madamimadam"</span>
+True
+<span class=3D"sy0">*</span>Main<span class=3D"sy0">&gt;</span> isPalindrom=
+e <span class=3D"br0">[</span><span class=3D"nu0">1</span><span class=3D"sy=
+0">,</span><span class=3D"nu0">2</span><span class=3D"sy0">,</span><span cl=
+ass=3D"nu0">4</span><span class=3D"sy0">,</span><span class=3D"nu0">8</span=
+><span class=3D"sy0">,</span><span class=3D"nu0">16</span><span class=3D"sy=
+0">,</span><span class=3D"nu0">8</span><span class=3D"sy0">,</span><span cl=
+ass=3D"nu0">4</span><span class=3D"sy0">,</span><span class=3D"nu0">2</span=
+><span class=3D"sy0">,</span><span class=3D"nu0">1</span><span class=3D"br0=
+">]</span>
+True</pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/6" title=3D"9=
+9 questions/Solutions/6"> Solutions</a>
+</p><p><br>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_7">7  Problem 7 </span></h2>
+<p>(**) Flatten a nested list structure.
+</p><p>Transform a list, possibly holding lists as elements into a `flat' l=
+ist by replacing each list with its elements (recursively).
+</p><p>Example:
+</p>
+<pre>* (my-flatten '(a (b (c d) e)))
+(A B C D E)
+</pre>
+<p>Example in Haskell:
+</p><p>We have to define a new data type, because lists in Haskell are homo=
+geneous.=20
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1"> <span class=3D"kw1">data</span> NestedLis=
+t a <span class=3D"sy0">=3D</span> Elem a <span class=3D"sy0">|</span> List=
+ <span class=3D"br0">[</span>NestedList a<span class=3D"br0">]</span></pre>=
+</div></div>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1"><span class=3D"sy0">*</span>Main<span clas=
+s=3D"sy0">&gt;</span> flatten <span class=3D"br0">(</span>Elem <span class=
+=3D"nu0">5</span><span class=3D"br0">)</span>
+<span class=3D"br0">[</span><span class=3D"nu0">5</span><span class=3D"br0"=
+>]</span>
+<span class=3D"sy0">*</span>Main<span class=3D"sy0">&gt;</span> flatten <sp=
+an class=3D"br0">(</span>List <span class=3D"br0">[</span>Elem <span class=
+=3D"nu0">1</span><span class=3D"sy0">,</span> List <span class=3D"br0">[</s=
+pan>Elem <span class=3D"nu0">2</span><span class=3D"sy0">,</span> List <spa=
+n class=3D"br0">[</span>Elem <span class=3D"nu0">3</span><span class=3D"sy0=
+">,</span> Elem <span class=3D"nu0">4</span><span class=3D"br0">]</span><sp=
+an class=3D"sy0">,</span> Elem <span class=3D"nu0">5</span><span class=3D"b=
+r0">]</span><span class=3D"br0">]</span><span class=3D"br0">)</span>
+<span class=3D"br0">[</span><span class=3D"nu0">1</span><span class=3D"sy0"=
+>,</span><span class=3D"nu0">2</span><span class=3D"sy0">,</span><span clas=
+s=3D"nu0">3</span><span class=3D"sy0">,</span><span class=3D"nu0">4</span><=
+span class=3D"sy0">,</span><span class=3D"nu0">5</span><span class=3D"br0">=
+]</span>
+<span class=3D"sy0">*</span>Main<span class=3D"sy0">&gt;</span> flatten <sp=
+an class=3D"br0">(</span>List <span class=3D"br0">[</span><span class=3D"br=
+0">]</span><span class=3D"br0">)</span>
+<span class=3D"br0">[</span><span class=3D"br0">]</span></pre></div></div>
+<p><br>
+</p><p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/7" title=
+=3D"99 questions/Solutions/7"> Solutions</a>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_8">8  Problem 8 </span></h2>
+<p>(**) Eliminate consecutive duplicates of list elements.
+</p><p>If a list contains repeated elements they should be replaced with a =
+single copy of the element. The order of the elements should not be changed=
+.
+</p><p>Example:
+</p>
+<pre>* (compress '(a a a a b c c a a d e e e e))
+(A B C A D E)
+</pre>
+<p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1"><span class=3D"sy0">&gt;</span> compress <=
+span class=3D"st0">"aaaabccaadeeee"</span>
+<span class=3D"st0">"abcade"</span></pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/8" title=3D"9=
+9 questions/Solutions/8"> Solutions</a>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_9">9  Problem 9 </span></h2>
+<p>(**) Pack consecutive duplicates of list elements into sublists.
+If a list contains repeated elements they should be placed in separate subl=
+ists.
+</p><p>Example:
+</p>
+<pre>* (pack '(a a a a b c c a a d e e e e))
+((A A A A) (B) (C C) (A A) (D) (E E E E))
+</pre>
+<p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1"><span class=3D"sy0">*</span>Main<span clas=
+s=3D"sy0">&gt;</span> pack <span class=3D"br0">[</span><span class=3D"st0">=
+'a'</span><span class=3D"sy0">,</span> <span class=3D"st0">'a'</span><span =
+class=3D"sy0">,</span> <span class=3D"st0">'a'</span><span class=3D"sy0">,<=
+/span> <span class=3D"st0">'a'</span><span class=3D"sy0">,</span> <span cla=
+ss=3D"st0">'b'</span><span class=3D"sy0">,</span> <span class=3D"st0">'c'</=
+span><span class=3D"sy0">,</span> <span class=3D"st0">'c'</span><span class=
+=3D"sy0">,</span> <span class=3D"st0">'a'</span><span class=3D"sy0">,</span=
+>=20
+             <span class=3D"st0">'a'</span><span class=3D"sy0">,</span> <sp=
+an class=3D"st0">'d'</span><span class=3D"sy0">,</span> <span class=3D"st0"=
+>'e'</span><span class=3D"sy0">,</span> <span class=3D"st0">'e'</span><span=
+ class=3D"sy0">,</span> <span class=3D"st0">'e'</span><span class=3D"sy0">,=
+</span> <span class=3D"st0">'e'</span><span class=3D"br0">]</span>
+<span class=3D"br0">[</span><span class=3D"st0">"aaaa"</span><span class=3D=
+"sy0">,</span><span class=3D"st0">"b"</span><span class=3D"sy0">,</span><sp=
+an class=3D"st0">"cc"</span><span class=3D"sy0">,</span><span class=3D"st0"=
+>"aa"</span><span class=3D"sy0">,</span><span class=3D"st0">"d"</span><span=
+ class=3D"sy0">,</span><span class=3D"st0">"eeee"</span><span class=3D"br0"=
+>]</span></pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/9" title=3D"9=
+9 questions/Solutions/9"> Solutions</a>
+</p>
+<h2> <span class=3D"mw-headline" id=3D"Problem_10">10  Problem 10 </span></=
+h2>
+<p>(*) Run-length encoding of a list.
+Use the result of problem P09 to implement the so-called run-length encodin=
+g data compression method. Consecutive duplicates of elements are encoded a=
+s lists (N E) where N is the number of duplicates of the element E.
+</p><p>Example:
+</p>
+<pre>* (encode '(a a a a b c c a a d e e e e))
+((4 A) (1 B) (2 C) (2 A) (1 D)(4 E))
+</pre>
+<p>Example in Haskell:
+</p>
+<div dir=3D"ltr" class=3D"mw-geshi mw-content-ltr"><div class=3D"haskell so=
+urce-haskell"><pre class=3D"de1">encode <span class=3D"st0">"aaaabccaadeeee=
+"</span>
+<span class=3D"br0">[</span><span class=3D"br0">(</span><span class=3D"nu0"=
+>4</span><span class=3D"sy0">,</span><span class=3D"st0">'a'</span><span cl=
+ass=3D"br0">)</span><span class=3D"sy0">,</span><span class=3D"br0">(</span=
+><span class=3D"nu0">1</span><span class=3D"sy0">,</span><span class=3D"st0=
+">'b'</span><span class=3D"br0">)</span><span class=3D"sy0">,</span><span c=
+lass=3D"br0">(</span><span class=3D"nu0">2</span><span class=3D"sy0">,</spa=
+n><span class=3D"st0">'c'</span><span class=3D"br0">)</span><span class=3D"=
+sy0">,</span><span class=3D"br0">(</span><span class=3D"nu0">2</span><span =
+class=3D"sy0">,</span><span class=3D"st0">'a'</span><span class=3D"br0">)</=
+span><span class=3D"sy0">,</span><span class=3D"br0">(</span><span class=3D=
+"nu0">1</span><span class=3D"sy0">,</span><span class=3D"st0">'d'</span><sp=
+an class=3D"br0">)</span><span class=3D"sy0">,</span><span class=3D"br0">(<=
+/span><span class=3D"nu0">4</span><span class=3D"sy0">,</span><span class=
+=3D"st0">'e'</span><span class=3D"br0">)</span><span class=3D"br0">]</span>=
+</pre></div></div>
+<p><a href=3D"https://wiki.haskell.org/99_questions/Solutions/10" title=3D"=
+99 questions/Solutions/10"> Solutions</a>
+</p>
+<!--=20
+NewPP limit report
+Preprocessor node count: 171/1000000
+Post=E2=80=90expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb_haskell:pcache:idhash:2465-0!*!0=
+!1!*!*!* and timestamp 20150422195011 -->
+</div><div class=3D"printfooter">
+Retrieved from "<a href=3D"https://wiki.haskell.org/index.php?title=3D99_qu=
+estions/1_to_10&amp;oldid=3D55488">https://wiki.haskell.org/index.php?title=
+=3D99_questions/1_to_10&amp;oldid=3D55488</a>"</div>
+			<div id=3D"catlinks" class=3D"catlinks"><div id=3D"mw-normal-catlinks" c=
+lass=3D"mw-normal-catlinks"><a href=3D"https://wiki.haskell.org/Special:Cat=
+egories" title=3D"Special:Categories">Category</a>: <ul><li><a href=3D"http=
+s://wiki.haskell.org/Category:Tutorials" title=3D"Category:Tutorials">Tutor=
+ials</a></li></ul></div></div>			<!-- end content -->
+						<div class=3D"visualClear"></div>
+		</div>
+	</div>
+		</div></div>
+		<div id=3D"column-one">
+=09
+	<div class=3D"generated-sidebar portlet" id=3D"p-navigation">
+		<h5>Navigation</h5>
+		<div class=3D"pBody">
+			<ul>
+				<li id=3D"n-mainpage"><a href=3D"https://wiki.haskell.org/Haskell">Hask=
+ell</a></li>
+				<li id=3D"n-portal"><a href=3D"https://wiki.haskell.org/HaskellWiki:Com=
+munity">Wiki community</a></li>
+				<li id=3D"n-recentchanges"><a href=3D"https://wiki.haskell.org/Special:=
+RecentChanges">Recent changes</a></li>
+				<li id=3D"n-randompage"><a href=3D"https://wiki.haskell.org/Special:Ran=
+dom">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class=3D"portlet" id=3D"p-tb">
+		<h5>Tools</h5>
+		<div class=3D"pBody">
+			<ul>
+				<li id=3D"t-whatlinkshere"><a href=3D"https://wiki.haskell.org/Special:=
+WhatLinksHere/99_questions/1_to_10">What links here</a></li>
+				<li id=3D"t-recentchangeslinked"><a href=3D"https://wiki.haskell.org/Sp=
+ecial:RecentChangesLinked/99_questions/1_to_10">Related changes</a></li>
+<li id=3D"t-specialpages"><a href=3D"https://wiki.haskell.org/Special:Speci=
+alPages">Special pages</a></li>
+				<li id=3D"t-print"><a href=3D"https://wiki.haskell.org/index.php?title=
+=3D99_questions/1_to_10&amp;printable=3Dyes" rel=3D"alternate">Printable ve=
+rsion</a></li>				<li id=3D"t-permalink"><a href=3D"https://wiki.haskell.or=
+g/index.php?title=3D99_questions/1_to_10&amp;oldid=3D55488">Permanent link<=
+/a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class=3D"visualClear"></div>
+			<div id=3D"footer">
+				<div id=3D"f-poweredbyico"><a href=3D"https://www.mediawiki.org/"><img =
+src=3D"https://wiki.haskell.org/wikistatic/skins//common/images/poweredby_m=
+ediawiki_88x31.png" height=3D"31" width=3D"88" alt=3D"Powered by MediaWiki"=
+></a></div>
+			<ul id=3D"f-list">
+					<li id=3D"lastmod"> This page was last modified on 27 February 2013, a=
+t 08:17.</li>
+					<li id=3D"copyright">Recent content is available under <a href=3D"http=
+s://wiki.haskell.org/HaskellWiki:Copyrights" title=3D"HaskellWiki:Copyright=
+s">a simple permissive license</a>.</li>
+					<li id=3D"privacy"><a href=3D"https://wiki.haskell.org/HaskellWiki:Pri=
+vacy_policy" title=3D"HaskellWiki:Privacy policy">Privacy policy</a></li>
+					<li id=3D"about"><a href=3D"https://wiki.haskell.org/HaskellWiki:About=
+" title=3D"HaskellWiki:About">About HaskellWiki</a></li>
+					<li id=3D"disclaimer"><a href=3D"https://wiki.haskell.org/HaskellWiki:=
+General_disclaimer" title=3D"HaskellWiki:General disclaimer">Disclaimers</a=
+></li>
+			</ul>
+		</div>
+</div>
+
+
+<!-- Served in 0.081 secs. -->
+
+<div class=3D"meteor-spotting-is-installed" style=3D"display:none;"></div><=
+/body></html>
+------=_NextPart_000_7CE2_55F88EF7.9B7167A3
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.haskell.org/wikistatic/skins//common/shared.css?303
+
+.mw-plusminus-null { color: rgb(170, 170, 170); }
+
+.texvc { direction: ltr; unicode-bidi: embed; }
+
+img.tex { vertical-align: middle; }
+
+span.texhtml { font-family: serif; }
+
+#toolbar, #wpTextbox1 { clear: both; }
+
+div#mw-js-message { margin: 1em 5%; padding: 0.5em 2.5%; border: 1px solid =
+rgb(221, 221, 221); background-color: rgb(252, 252, 252); }
+
+.editsection { float: right; margin-left: 5px; }
+
+table.filehistory { border: 1px solid rgb(204, 204, 204); border-collapse: =
+collapse; }
+
+table.filehistory th, table.filehistory td { padding: 0px 0.2em; vertical-a=
+lign: top; border: 1px solid rgb(204, 204, 204); }
+
+table.filehistory th { text-align: left; }
+
+table.filehistory td.mw-imagepage-filesize, table.filehistory th.mw-imagepa=
+ge-filesize { white-space: nowrap; }
+
+li span.deleted, span.history-deleted { text-decoration: line-through; colo=
+r: rgb(136, 136, 136); font-style: italic; }
+
+body.ltr td.mw-label { text-align: right; }
+
+body.ltr td.mw-input { text-align: left; }
+
+body.ltr td.mw-submit { text-align: left; }
+
+body.rtl td.mw-label { text-align: left; }
+
+body.rtl td.mw-input { text-align: right; }
+
+body.rtl td.mw-submit { text-align: right; }
+
+td.mw-label { vertical-align: top; }
+
+td.mw-submit { white-space: nowrap; }
+
+body.rtl .thumbcaption { text-align: right; }
+
+body.rtl .magnify { float: left; }
+
+body.ltr .thumbcaption { text-align: left; }
+
+body.ltr .magnify { float: right; }
+------=_NextPart_000_7CE2_55F88EF7.9B7167A3
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.haskell.org/wikistatic/skins//hawiki/main.css?303
+
+@font-face { font-family: 'Adelle Basic'; font-weight: bold; src: url(https=
+://wiki.haskell.org/wikistatic/fonts/AdelleBasic_Bold.otf); }
+
+* { margin: 0px; padding: 0px; }
+
+html { width: 100%; height: 100%; background-color: white; }
+
+body { color: black; text-align: left; min-height: 100%; position: relative=
+; background: white; }
+
+p { margin: 0.8em 0px; }
+
+ul, ol { margin: 0.8em 0px 0.8em 2em; }
+
+dl { margin: 0.8em 0px; }
+
+dt { font-weight: bold; }
+
+dd { margin-left: 2em; }
+
+a { text-decoration: none; }
+
+a[href]:link { color: rgb(196, 69, 29); }
+
+a[href]:visited { color: rgb(171, 105, 84); }
+
+a[href]:hover { color: black; border-bottom-width: 1px; border-bottom-style=
+: solid; border-bottom-color: rgb(119, 136, 85); background: rgb(244, 242, =
+226); }
+
+a[href].new { color: rgb(102, 102, 102); }
+
+h1 { font-size: 146.5%; }
+
+h2 { font-size: 131%; }
+
+h3 { font-size: 116%; }
+
+h4 { font-size: 100%; }
+
+h5 { font-size: 100%; }
+
+select, input, button, textarea { font-style: normal; font-variant: normal;=
+ font-weight: normal; font-stretch: normal; font-size: 99%; line-height: no=
+rmal; font-family: sans-serif; }
+
+table { font-size: inherit; }
+
+pre, code, kbd, samp, tt, .src { font-family: monospace; line-height: 124%;=
+ }
+
+h1, h2, h3, h4, h5, h6 { font-weight: bold; color: rgb(78, 98, 114); margin=
+: 0.8em 0px 0.4em; }
+
+body { line-height: 1.4; font-family: 'Liberation Sans', proxima-nova-1, pr=
+oxima-nova-2, 'Helvetica Neue', Calibri, Arial, Helvetica, sans-serif; text=
+-align: center; margin: 0px; padding: 0px; color: black; background: white;=
+ }
+
+#content { color: black; font-family: 'Helvetica Neue', Arial, Helvetica, s=
+ans-serif; line-height: 1.4; padding: 1em; background: white; }
+
+pre { line-height: 1.2; overflow: auto; }
+
+div > pre.source-haskell { margin: 0.8em; }
+
+img { border: 0px; }
+
+th { font-weight: bold; background: rgb(238, 238, 238); }
+
+td { padding: 0px 0.5em; }
+
+a:link, a:visited { text-decoration: none; }
+
+a:link { color: rgb(196, 69, 29); }
+
+a:visited { color: rgb(196, 69, 29); border-bottom-width: 0px; }
+
+div.floatleft, table.floatleft { float: left; clear: left; }
+
+div.floatright, table.floatright { float: right; clear: right; }
+
+div.floatleft, table.floatleft { margin: 0px 0.5em 0.5em 0px; }
+
+div.floatright, table.floatright { margin: 0px 0px 0.5em 0.5em; }
+
+blockquote { margin-left: 2em; }
+
+a.new { color: rgb(102, 102, 102); }
+
+#p-logo { top: 2em; left: 0px; position: absolute; clear: both; z-index: 3;=
+ height: 155px; width: 180px; overflow: visible; }
+
+#p-logo h5 { display: none; }
+
+#p-logo a, #p-logo a:hover { display: block; height: 155px; width: 100%; te=
+xt-decoration: none; background-color: inherit; background-position: 35% 50=
+% !important; background-repeat: no-repeat; }
+
+#globalWrapper { margin: 0px; text-align: left; clear: both; position: rela=
+tive; }
+
+#bodyContent { }
+
+#siteSub { display: none; }
+
+#toc, .toc { padding: 0px 1em 0.5em; border: 1px solid rgba(196, 69, 29, 0.=
+2); background: rgb(239, 238, 209); }
+
+#toc h2, .toc h2 { display: inline; padding: 0px; font-size: 100%; font-wei=
+ght: bold; margin-right: 1em; }
+
+#toc #toctitle, .toc #toctitle { padding: 0.5em 0px; }
+
+#toc ul, .toc ul { margin: 0px; padding: 0px; list-style: none; }
+
+#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }
+
+.toc .toctoggle, #toc .toctoggle { font-size: 90%; color: rgb(204, 204, 204=
+); }
+
+#firstHeading { margin: 0.5em 0px 0.25em; }
+
+#topbar { border-top-width: 5px; border-top-style: solid; border-top-color:=
+ rgb(78, 98, 114); color: rgb(221, 221, 221); padding: 0px; font-size: smal=
+ler; text-align: right; margin: 0px; float: left; width: 100%; background: =
+rgb(41, 56, 69); }
+
+#topbar a:hover { color: white; background: rgb(78, 98, 114); }
+
+#p-personal * { margin: 0px; padding: 0px; }
+
+#p-personal { float: left; padding: 5px 0px; margin: 0px 10px 0px 30px; }
+
+#p-personal h5 { display: none; }
+
+#p-personal li { display: inline; text-align: left; }
+
+#p-personal a { color: white; padding: 5px 10px; }
+
+#content-wrapper { position: relative; }
+
+#p-cactions { position: absolute; right: 5px; float: right; font-size: 80%;=
+ margin: 5px; background: rgb(238, 238, 238); }
+
+#searchBody { float: right; padding: 2px; margin-right: 10px; }
+
+#p-cactions { text-shadow: white 0px 1px 0px; border: 1px solid rgb(238, 23=
+8, 238); }
+
+#p-cactions .pBody { display: inline; }
+
+#p-cactions h5 { display: none; }
+
+#p-cactions ul { display: inline; margin: 0px; padding: 0px; }
+
+#preftoc ul { display: block; padding: 0px; margin: 0px; }
+
+#preftoc li { list-style-type: none; float: left; padding: 1px 5px; border-=
+right-width: 1px; border-right-style: solid; border-right-color: rgb(204, 2=
+04, 204); }
+
+#preftoc li.selected { background: white; }
+
+#preferences { clear: both; }
+
+#p-cactions ul li { display: inline; }
+
+#p-cactions ul li a { float: left; padding: 5px; }
+
+#p-cactions a { color: rgb(51, 51, 51); }
+
+#p-cactions .selected a { color: rgb(153, 153, 153); background: white; }
+
+#p-cactions a:hover { color: white; text-shadow: 0px 0px; background: rgb(7=
+8, 98, 114); }
+
+#p-cactions .new a { color: rgb(153, 153, 153); }
+
+.editsection { font-size: 60%; margin-right: 1em; }
+
+.editsection, .editsection a { color: rgb(153, 153, 153); font-weight: norm=
+al; }
+
+.printfooter { display: none; }
+
+h1, h2, h3, h4, h5, h6 { color: rgb(41, 56, 69); }
+
+#content h1, #content h2, #content h3, #content h4 { font-family: Georgia, =
+'Times New Roman', Times, serif; font-weight: normal; }
+
+code, pre, .inline-code, div.source-haskell li { background: rgb(240, 240, =
+240); }
+
+pre { border: 1px solid rgb(221, 221, 221); margin-left: 1em; padding: 0.3e=
+m; }
+
+.inline-code, .inline-code > div, .inline-code > div > div { display: inlin=
+e; }
+
+.inline-code .source-haskell { display: inline; }
+
+.source-haskell .co1 { color: rgb(153, 153, 153) !important; }
+
+.source-haskell .kw1 { font-weight: bold; color: black !important; }
+
+.source-haskell .kw3 { color: rgb(85, 68, 136) !important; font-weight: inh=
+erit !important; }
+
+.source-haskell .kw4 { color: rgb(153, 0, 0) !important; }
+
+.source-haskell .nu0 { color: rgb(68, 85, 136) !important; }
+
+.source-haskell .st0 { color: rgb(221, 17, 68) !important; background: rgb(=
+221, 221, 221) !important; }
+
+.source-haskell .sy0, .source-haskell .br0 { color: rgb(102, 102, 102) !imp=
+ortant; font-weight: normal !important; }
+
+.source-haskell .es0 { color: rgb(170, 119, 136) !important; background: rg=
+b(221, 221, 221) !important; }
+
+.visualClear { clear: both; }
+
+.pad { padding: 1em; }
+
+#column-content { margin-left: 160px; max-width: 50em; }
+
+#column-one { margin: 0px; }
+
+#footer { clear: both; border-top-width: 1px; border-top-style: solid; bord=
+er-top-color: rgb(153, 153, 153); padding: 0.5em; margin: 0px; font-size: 8=
+0%; min-height: 4em; text-align: center; background: rgb(221, 221, 221); }
+
+#footer ul li { display: inline; margin: 0.5em 1em; }
+
+#f-poweredbyico { display: none; }
+
+#f-copyrightico { float: left; height: 1%; margin: 0.5em; }
+
+#content form { padding: 0.5em; background: rgb(238, 238, 238); }
+
+fieldset { border: 1px solid rgb(221, 221, 221); margin: 0.5em; }
+
+textarea { font-size: 100%; font-family: monospace; }
+
+#jump-to-nav { text-align: right; float: right; background: rgb(240, 240, 2=
+40); }
+
+.intro { margin: 1em 10% 1em 1em; line-height: 1.5em; }
+
+.intro p { padding: 1em; margin: 0px; }
+
+.intro a:link, .intro a:visited { color: rgb(239, 238, 209); text-decoratio=
+n: none; font-weight: normal; border-bottom-width: 1px !important; border-b=
+ottom-style: dotted !important; border-bottom-color: rgb(239, 238, 209) !im=
+portant; }
+
+.intro .external { border-bottom-width: 1px !important; border-bottom-style=
+: dotted !important; border-bottom-color: rgb(158, 82, 0) !important; }
+
+.intro a[href]:hover { background: inherit; }
+
+#p-navigation ul, #p-tb ul { list-style: none; margin-left: 0px; padding-le=
+ft: 1em; }
+
+.title { font-size: 200%; margin: 0.5em 0px; font-family: 'Adelle Basic', H=
+elvetica, Arial, sans-serif; font-weight: bold; }
+
+.subtitle { font-family: 'Adelle Basic', Helvetica, Arial, sans-serif; font=
+-weight: bold; font-size: 120%; color: rgb(78, 98, 114); margin: 0.5em 0px;=
+ }
+
+.bg-image { color: white; padding: 0.5em 0.5em 0.5em 200px; position: relat=
+ive; z-index: 0; background: url(https://wiki.haskell.org/wikistatic/gradie=
+nt.png) repeat-x rgb(78, 98, 114); }
+
+#siteNotice { border: 2px solid rgb(153, 0, 0); color: rgb(204, 0, 0); padd=
+ing: 0.5em; text-align: center; background: rgb(255, 238, 209); }
+
+.homepage #siteNotice { display: none; color: white; border: 0px; backgroun=
+d: rgb(153, 0, 0); }
+
+.page-Haskell .homebutton { display: none; }
+
+#contentSub { padding-left: 2em; margin-bottom: 1em; border-bottom-width: 1=
+px; border-bottom-style: solid; border-bottom-color: rgb(204, 204, 204); fo=
+nt-size: 80%; }
+
+.highlight { background: rgb(239, 238, 209); }
+
+.catlinks { border-top-width: 1px; border-top-style: solid; border-top-colo=
+r: rgb(204, 204, 204); background: rgb(240, 240, 240); }
+
+#contentSub2, .usermessage { padding: 0.5em; text-align: center; background=
+: rgb(255, 238, 209); }
+
+.homepage #content { padding: 0px; margin-top: 0px; }
+
+.homepage #firstHeading, .homepage #contentSub { display: none; }
+
+.homepage #bodyContent > p { display: none; }
+
+.homepage #column-one { display: none; }
+
+.homepage #column-content { max-width: none; margin: 0px; }
+
+.homepage #content .external { border-bottom-width: 0px; }
+
+.homepage #p-cactions { z-index: 100; }
+
+.homepage #p-cactions { border: 0px; color: rgb(204, 204, 204); text-shadow=
+: 0px 0px; background: inherit; }
+
+.homepage #p-cactions a { color: rgb(204, 204, 204); }
+
+.homepage #p-cactions a:hover { color: white; background: rgb(78, 98, 114);=
+ }
+
+.homepage #p-cactions .selected { display: none; }
+
+.homepage #ca-talk { display: none; }
+
+.home-content { clear: both; position: relative; padding: 0px; margin: 0px;=
+ border: 1px solid white; float: left; width: 100%; }
+
+.home-static { float: left; }
+
+.home-dynamic { background: url(https://wiki.haskell.org/wikistatic/gradien=
+t-gray.png) repeat-x rgb(238, 238, 238); }
+
+.home-dynamic ul { margin-left: 0px; padding-left: 1em; }
+
+.cols3 { width: 100%; float: left; margin: 0px; padding: 0px; background: i=
+nherit; }
+
+.cols3 > .c1, .cols3 > .c2, .cols3 > .c3 { min-height: 10em; width: 33.3%; =
+float: left; margin: 0px; padding: 0px; }
+
+.w1000 { max-width: 1280px; margin: 0px auto; }
+
+.homepage .wrap { margin: 0px auto; padding: 0px 1em; max-width: 1280px; }
+
+.content { padding: 1em; }
+
+@media screen and (max-width: 1000px) {=20
+  .cols3.w1000 > .c1, .cols3.w1000 > .c2, .cols3.w1000 > .c3 { width: 50%; =
+}
+}
+
+@media screen and (max-width: 500px) {=20
+  .cols3.w1000 > .c1, .cols3.w1000 > .c2, .cols3.w1000 > .c3 { width: 100%;=
+ }
+}
+
+@media screen and (min-width: 1024px) {=20
+  #column-one { width: 199px; position: absolute; top: 80px; right: 0px; bo=
+rder-left-width: 1px; border-left-style: solid; border-left-color: rgb(221,=
+ 221, 221); padding: 0.5em; z-index: 1; background: white; }
+  #column-content { margin-right: 220px; }
+  #jump-to-nav { display: none; }
+  #footer { padding-right: 220px; z-index: 0; }
+}
+
+@media screen and (max-width: 1023px) {=20
+  #column-one { padding: 0.5em; border-top-width: 1px; border-top-style: so=
+lid; border-top-color: rgb(221, 221, 221); background: rgb(240, 240, 240); =
+}
+  #column-one > div { margin: 0.5em; }
+  #column-one div ul, #column-one div li { display: inline; }
+  #column-one div li { margin-left: 1em; }
+}
+
+@media screen and (max-width: 800px) {=20
+  #p-logo { display: none; }
+  #topbar { background: url(https://wiki.haskell.org/wikistatic/hslogo-16.p=
+ng) 5px 5px no-repeat rgb(41, 56, 69); }
+  #column-content { margin-left: 0px; margin-right: 0px; }
+  .homepage .bg-image { padding: 0.5em 1em; }
+  .homepage .intro { margin-right: 1em; }
+}
+
+@media screen and (max-width: 500px) {=20
+  body { font-size: 80%; }
+}
+
+.homepage #p-logo a { background-image: url(https://wiki.haskell.org/wikist=
+atic/haskellwiki_logo_white.png) !important; }
+
+table#sv-ext, table#sv-software, table#sv-hooks { border: 1px solid rgb(204=
+, 204, 204); }
+
+.button { display: inline-block; outline: none; cursor: pointer; text-align=
+: center; text-decoration: none; font-style: normal; font-variant: normal; =
+font-weight: normal; font-stretch: normal; font-size: 14px; line-height: 10=
+0%; font-family: Arial, Helvetica, sans-serif; padding: 0.4em 1.5em; text-s=
+hadow: rgba(0, 0, 0, 0.298039) 0px 1px 1px; border-radius: 0.5em; -webkit-b=
+ox-shadow: rgba(0, 0, 0, 0.2) 0px 1px 2px; box-shadow: rgba(0, 0, 0, 0.2) 0=
+px 1px 2px; }
+
+.button:hover { text-decoration: none; }
+
+.button:active { position: relative; top: 1px; }
+
+.orange { color: rgb(254, 244, 233); border: 1px solid rgb(218, 124, 12); b=
+ackground: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(250, 165, 26))=
+, to(rgb(244, 122, 32))); }
+
+.orange:hover { color: white !important; background: rgb(244, 124, 32) !imp=
+ortant; }
+
+.orange:active { color: rgb(252, 211, 165); background: -webkit-gradient(li=
+near, 0% 0%, 0% 100%, from(rgb(244, 122, 32)), to(rgb(250, 165, 26))); }
+
+.orange a { color: white; }
+------=_NextPart_000_7CE2_55F88EF7.9B7167A3
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.haskell.org/wikistatic/skins//common/commonPrint.css?303
+
+a.stub, a.new { color: rgb(186, 0, 0); text-decoration: none; }
+
+#toc { border: 1px solid rgb(170, 170, 170); padding: 5px; background-color=
+: rgb(249, 249, 249); }
+
+.tocindent { margin-left: 2em; }
+
+.tocline { margin-bottom: 0px; }
+
+div.floatright { float: right; clear: right; margin: 0px; position: relativ=
+e; border-style: solid; border-color: white; border-width: 0.5em 0px 0.8em =
+1.4em; }
+
+div.floatright p { font-style: italic; }
+
+div.floatleft { float: left; margin: 0.3em 0.5em 0.5em 0px; position: relat=
+ive; border-style: solid; border-color: white; border-width: 0.5em 1.4em 0.=
+8em 0px; }
+
+div.floatleft p { font-style: italic; }
+
+div.thumb { margin-bottom: 0.5em; border-style: solid; border-color: white;=
+ width: auto; overflow: hidden; }
+
+div.thumb div { border: 1px solid rgb(204, 204, 204); font-size: 94%; text-=
+align: center; padding: 3px !important; background-color: rgb(249, 249, 249=
+); }
+
+div.thumb div a img { border: 1px solid rgb(204, 204, 204); }
+
+div.thumb div div.thumbcaption { border: none; padding: 0.3em 0px 0.1em; }
+
+div.magnify { display: none; }
+
+div.tright { float: right; clear: right; border-width: 0.5em 0px 0.8em 1.4e=
+m; }
+
+div.tleft { float: left; margin-right: 0.5em; border-width: 0.5em 1.4em 0.8=
+em 0px; }
+
+img.thumbborder { border: 1px solid rgb(221, 221, 221); }
+
+table.rimage { float: right; width: 1pt; position: relative; margin-left: 1=
+em; margin-bottom: 1em; text-align: center; }
+
+body { color: black; margin: 0px; padding: 0px; background: white; }
+
+.noprint, div#jump-to-nav, div.top, div#column-one, #colophon, .editsection=
+, .toctoggle, .tochidden, div#f-poweredbyico, div#f-copyrightico, li#viewco=
+unt, li#about, li#disclaimer, li#privacy { display: none; }
+
+ul { list-style-type: square; }
+
+#content { border: none !important; padding: 0px !important; margin: 0px !i=
+mportant; background: none; }
+
+#footer { color: black; border-top-width: 1px; border-top-style: solid; bor=
+der-top-color: black; background: white; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: bold; }
+
+p, .documentDescription { line-height: 1.2em; margin: 1em 0px !important; }
+
+.tocindent p { margin: 0px !important; }
+
+pre { border: 1pt dashed black; white-space: pre; font-size: 8pt; overflow:=
+ auto; padding: 1em 0px; color: black; background: white; }
+
+table.listing, table.listing td { border: 1pt solid black; border-collapse:=
+ collapse; }
+
+a { color: black !important; padding: 0px !important; background: none !imp=
+ortant; }
+
+a:link, a:visited { color: rgb(85, 34, 0); text-decoration: underline; back=
+ground: transparent; }
+
+#content a.external.text::after, #content a.external.autonumber::after { co=
+ntent: ' (' attr(href) ') '; }
+
+#globalWrapper { width: 100% !important; min-width: 0px !important; }
+
+#content { color: black; background: white; }
+
+#column-content { margin: 0px !important; }
+
+#column-content #content { padding: 1em; margin: 0px !important; }
+
+a, a.external, a.new, a.stub { color: black !important; text-decoration: no=
+ne !important; }
+
+a, a.external, a.new, a.stub { color: inherit !important; text-decoration: =
+inherit !important; }
+
+img { border: none; }
+
+img.tex { vertical-align: middle; }
+
+span.texhtml { font-family: serif; }
+
+div.townBox { position: relative; float: right; margin-left: 1em; border: 1=
+px solid gray; padding: 0.3em; width: 200px; overflow: hidden; clear: right=
+; background: white; }
+
+div.townBox dl { padding: 0px; margin: 0px 0px 0.3em; font-size: 96%; }
+
+div.townBox dl dt { margin: 0.4em 0px 0px; background: none; }
+
+div.townBox dl dd { margin: 0.1em 0px 0px 1.1em; background-color: rgb(243,=
+ 243, 243); }
+
+#siteNotice { display: none; }
+
+table.gallery { border: 1px solid rgb(204, 204, 204); margin: 2px; padding:=
+ 2px; background-color: rgb(255, 255, 255); }
+
+table.gallery tr { vertical-align: top; }
+
+div.gallerybox { border: 1px solid rgb(204, 204, 204); margin: 2px; width: =
+150px; background-color: rgb(249, 249, 249); }
+
+div.gallerybox div.thumb { text-align: center; border: 1px solid rgb(204, 2=
+04, 204); margin: 2px; }
+
+div.gallerytext { font-size: 94%; padding: 2px 4px; }
+
+table.diff { background: white; }
+
+td.diff-otitle { background: rgb(255, 255, 255); }
+
+td.diff-ntitle { background: rgb(255, 255, 255); }
+
+td.diff-addedline { font-size: smaller; border: 2px solid black; background=
+: rgb(204, 255, 204); }
+
+td.diff-deletedline { font-size: smaller; border: 2px dotted black; backgro=
+und: rgb(255, 255, 170); }
+
+td.diff-context { font-size: smaller; background: rgb(238, 238, 238); }
+
+.diffchange { color: silver; font-weight: bold; text-decoration: underline;=
+ }
+------=_NextPart_000_7CE2_55F88EF7.9B7167A3
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://wiki.haskell.org/wikistatic/haskellwiki_logo.png
+
+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
+------=_NextPart_000_7CE2_55F88EF7.9B7167A3
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://wiki.haskell.org/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png
+
+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
+------=_NextPart_000_7CE2_55F88EF7.9B7167A3--
